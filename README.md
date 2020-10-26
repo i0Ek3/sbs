@@ -1,6 +1,6 @@
 # sbs
 
-sbs is a forced type conversion wrapper between string and []byte in Go.
+sbs is a wrapper of forced type conversion between string and []byte in Go.
 
 ## Usage
 
