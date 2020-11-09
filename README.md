@@ -2,13 +2,17 @@
 
 sbs is a wrapper of forced type conversion between string and []byte in Go.
 
+## Install 
+
+`go get "github.com/i0Ek3/sbs"`
+
 ## Usage
 
 ```
 package main 
 
 import (
-    sbs "github.com/i0Ek3/sbs" 
+    "github.com/i0Ek3/sbs" 
 )
 
 func main() {
